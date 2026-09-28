@@ -70,6 +70,3 @@ not a valid conclusion). A broader substituent set spanning a wider σ range,
 and/or dual-parameter (F, R) or σ⁺ scales, would give a more robust test of
 the correlation.
 
-## License
-
-MIT (or your preferred license — update as needed).
