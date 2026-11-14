@@ -1,4 +1,4 @@
-# Hammett Binding Energy Analysis
+# Substituent Effects on Chloride Binding in Thiourea Derivatives (DFT)
 
 Linear regression analysis of Hammett σ substituent constants vs. computed
 binding energies (kcal/mol), with a publication-ready scatter plot generated
