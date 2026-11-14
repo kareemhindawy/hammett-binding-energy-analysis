@@ -1,8 +1,6 @@
 # Substituent Effects on Chloride Binding in Thiourea Derivatives (DFT)
 
-Linear regression analysis of Hammett σ substituent constants vs. computed
-binding energies (kcal/mol), with a publication-ready scatter plot generated
-in Python (NumPy, SciPy, Matplotlib).
+Independent computational study (Sep–Oct 2026) of how a substituent on nitrogen changes the binding of a chloride anion to thiourea, as a simple model of hydrogen-bonding organocatalysis. DFT calculations were run in ORCA 6.1.1; the analysis and plot were done in Python (NumPy, SciPy, Matplotlib).
 
 ## Data
 
